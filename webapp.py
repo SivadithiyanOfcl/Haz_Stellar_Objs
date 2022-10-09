@@ -47,11 +47,11 @@ def sample_input():
 
 def main():
     
-    st.title("Hazardous Stellar object Classifier")
+    st.title("Hazardous Stellar object Prediction")
     
     html_temp = """
     <div style="background-color:yellow ;padding:10px">
-    <h2 style="color:black;text-align:center;">Hazardous Object Classification</h2>
+    <h2 style="color:black;text-align:center;">Hazardous Object Prediction</h2>
     </div>
     """
     st.markdown(html_temp, unsafe_allow_html=True)
