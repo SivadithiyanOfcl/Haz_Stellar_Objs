@@ -1,6 +1,6 @@
 import streamlit as st
 import pickle
-import joblib
+#import joblib
 from sklearn.preprocessing import MinMaxScaler,StandardScaler
 import random
 import pandas as pd
